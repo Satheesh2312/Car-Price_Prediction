@@ -1,0 +1,17 @@
+certifi==2020.12.5
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+entrypoints==0.3
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+MarkupSafe==1.1.1
+parso==0.7.0
+pywinpty==0.5.7
+pyzmq==20.0.0
+QtPy==1.9.0
+sip==4.19.13
+terminado==0.9.2
+tornado @ file:///C:/ci/tornado_1606942392901/work
+webencodings==0.5.1
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+wincertstore==0.2
